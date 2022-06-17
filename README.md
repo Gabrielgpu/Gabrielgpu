@@ -3,7 +3,7 @@
 🎓 <strong> Faculdade - Descomplica </strong> - Análise e Desenvolvimento de Sistemas, cursando.<br>
 🎓 <strong> Curso - Digital Innovation One </strong> - Full Stack, cursando.<br>
 🎓 <strond> Curso - Rocketseat </strong> - Full Stack, completo 
-
+##
 <div align="center">
   <a href="https://github.com/gabrielgpu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgpu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
