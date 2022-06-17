@@ -1,4 +1,4 @@
-## Ola eu sou Gabriel 👋
+## Olá, eu sou Gabriel 👨‍🎓
 
 🎓 <strong> Faculdade - Descomplica </strong> - Análise e Desenvolvimento de Sistemas, cursando.<br>
 🎓 <strong> Curso - Digital Innovation One </strong> - Full Stack, cursando.<br>
