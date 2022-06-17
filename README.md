@@ -18,5 +18,5 @@
   
   ##
 <div>
-  <a href="https://www.linkedin.com/in/gabriel-cardoso-284813234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cardoso-284813234/" target="_blenk"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blenk"></a>
 </div>
