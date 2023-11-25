@@ -12,7 +12,7 @@
   <br>
 
 <div style="display: inline_block"> 
-  <img align="center" alt="BIEL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="BIEL-Js" height="30" width="40" src="https://icons8.com/icon/22189/ruby-programming-language">
   <img align="center" alt="BIEL-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="BIEL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BIEL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
