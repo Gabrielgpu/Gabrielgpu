@@ -1,6 +1,6 @@
 ## Olá, eu sou Gabriel 👨‍🎓
 
-🎓 <strong> Faculdade - Descomplica </strong> - Análise e Desenvolvimento de Sistemas, cursando.<br>
+🎓 <strong> Faculdade - Descomplica </strong> - Ciência da Computação, cursando.<br>
 🎓 <strong> Curso - Digital Innovation One </strong> - Full Stack, cursando.<br>
 🎓 <strond> Curso - Rocketseat </strong> - Full Stack, completo 
 ##
