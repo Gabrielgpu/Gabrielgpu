@@ -12,6 +12,7 @@
   <br>
 
 <div style="display: inline_block"> 
+  <img align="center" alt="BIEL-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://www.python.org/static/community_logos/python-logo-inkscape.svg)">
   <img align="center" alt="BIEL-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="BIEL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BIEL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
